@@ -18,7 +18,8 @@ Apply Feature Generation techniques to all the feature of the data set
 ### STEP 4
 Save the data to the file
 
-
+Name:P.Sarveshvaran
+Reg no:212221230090
 # CODE
 ~~~
 import pandas as pd
@@ -182,11 +183,13 @@ df5=pd.DataFrame(sc3.fit_transform(df1),columns=['Passenger','Survived','Pclass'
 df5
 ~~~
 # OUPUT:
-![output](d5'1)
-![output](d5'2)
-![output](d5'3)
-![output](d5'4)
-![output](d5'5)
-![output](d5'6)
-![output](d5'7)
+![output](d5'1.png)
+![output](d5'2.png)
+![output](d5'3.png)
+![output](d5'4.png)
+![output](d5'5.png)
+![output](d5'6.png)
+![output](d5'7.png)
+
 RESULT:
+Thus the out come of the program came correctly.
